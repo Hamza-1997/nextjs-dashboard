@@ -11,11 +11,12 @@
 # next.js
 /.next/
 /out/
-
+Marotta
 # production
 /build
 
-/app/seed
+app/seed/
+
 
 # misc
 .DS_Store
